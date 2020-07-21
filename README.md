@@ -31,13 +31,16 @@
   - git branch : 로컬 repository에 있는 branch 확인<br>
    ![gitbranch](./images/gitbranch.PNG)
   
+  - git branch -d [branchname] : branch 삭제
+  
   - git branch [branch_name] : branch name으로 새로운 branch 생성<br>
    ![gitbranchname](./images/gitbranchname.PNG)
 
   - git checkout [branch_name] : branch 변경<br>
    ![gitcheckout](./images/gitcheckout.PNG)
   
-  - git reset --hard [revision번호] : git log의 commit 시점으로 이동<br>
+  - git reset --hard [revision번호] : git log의 commit 시점으로 이동(변경 이후의 로그 삭제)<br>
+  - git reset --soft [revision번호] : git log의 commit 시점으로 이동(변경 이후의 로그가 삭제되지 않음)<br>
 
 - git 명령어 (서버 <-> 로컬)
   - git clone [url] : github 서버에 있는 repository를 복사<br>
