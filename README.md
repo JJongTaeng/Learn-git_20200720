@@ -7,7 +7,8 @@
 
 <hr>
 
-
+   ![](/images/gitinit.png)
+   
 - git 명령어 (로컬환경)
   - git init : git을 생성<br>
 
