@@ -10,10 +10,10 @@
 
 
 - git 명령어 (로컬환경)
-  - git init : git을 생성
-   ![gitinit](C:\Users\Intae\Learn-git_20200720\images\gitadd.PNG)
+  - git init : git을 생성<br>
+   ![gitinit](./images/gitinit.png)
 
-  - git config --global user.email 'e-mail' : git 계정 메일을 변경
+  - git config --global user.email 'e-mail' : git 계정 메일을 변경<br>
    ![gitemail](./images/gitemail.png)
 
   - git config --global user.name 'e-mail' : git 계정 이름을 변경<br>
