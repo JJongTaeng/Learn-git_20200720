@@ -48,3 +48,4 @@
   - git pull : 서버에서 변경된 내용을 로컬로 복사<br>
   ![gitpull](./images/gitpull.png)
   
+<img src ="./images/gitpull.png">
