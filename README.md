@@ -1,1 +1,1 @@
-![gitadd](./gitadd.PNG)
+![gitadd](./gitadd.png)
